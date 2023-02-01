@@ -1,0 +1,5 @@
+# Function dependencies, for example:
+# package>=version
+google-api-python-client==2.73.0
+pytz==2022.7.1
+iso8601==1.1.0
